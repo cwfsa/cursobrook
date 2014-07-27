@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1374722184"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -Fu/home/carlos/development/Componetes_Lazarus/brookframework-3.0.0/packages/lib/x86_64-linux -Fu/home/carlos/development/CursoBrook/Exercicios/aula02/Exemplo2/ -l imagem.lpr"/>
+</CONFIG>
